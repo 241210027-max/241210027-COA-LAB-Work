@@ -4,7 +4,7 @@ Welcome to my Computer Organization and Architecture lab portfolio! This reposit
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 The experiments are organized systematically for clarity and ease of navigation:
 
@@ -28,7 +28,7 @@ The experiments are organized systematically for clarity and ease of navigation:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * **Logisim Evolution** – For digital circuit design and simulation
 * **GCC Compiler** – For compiling C programs
@@ -36,7 +36,7 @@ The experiments are organized systematically for clarity and ease of navigation:
 
 ---
 
-## 🎯 Core Objectives
+##  Core Objectives
 
 * **First-Principles Design:** Exploring foundational digital logic and translating it into working models.
 * **Circuit Simulation:** Building and testing both combinational and sequential hardware circuits.
@@ -45,7 +45,7 @@ The experiments are organized systematically for clarity and ease of navigation:
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 * Self-contained, modular folders for every lab session.
 * Highly reproducible circuit designs with complete documentation.
@@ -53,7 +53,7 @@ The experiments are organized systematically for clarity and ease of navigation:
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 To explore these experiments locally, clone the repository using the following command:
 ```bash
