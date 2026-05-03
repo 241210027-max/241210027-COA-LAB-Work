@@ -1,6 +1,6 @@
 # Computer Organization and Architecture (CSBB251) Lab Repository
 
-This repository contains a collection of **Computer Organization and Architecture (COA)** laboratory experiments, implemented and documented as part of academic coursework. The experiments are designed to provide a strong foundation in **digital logic design, low-level system concepts, and debugging techniques.**
+Welcome to my Computer Organization and Architecture lab portfolio! This repository serves as a practical log of my journey through low-level hardware design and system architecture. It contains a series of hands-on experiments that bridge the gap between theoretical computing concepts and functional implementations, moving from basic logic gates up to complex sequential circuits and software debugging.
 
 ---
 
@@ -28,34 +28,33 @@ The experiments are organized systematically for clarity and ease of navigation:
 
 ---
 
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 
 * **Logisim Evolution** – For digital circuit design and simulation
 * **GCC Compiler** – For compiling C programs
-* **GDB (GNU Debugger)** – For debugging and execution analysis
+* **GDB (GNU Debugger)** – For low-level debugging and memory execution analysis
 
 ---
 
-## Objectives of the Repository
+## 🎯 Core Objectives
 
-* To understand **digital logic design principles**
-* To implement and simulate **combinational and sequential circuits**
-* To gain hands-on experience with **low-level programming and debugging**
-* To develop a structured approach toward **problem-solving in computer architecture**
-
----
-
-## Key Highlights
-
-* Well-structured and modular experiment documentation
-* Practical implementation of theoretical concepts
-* Step-by-step procedures for reproducibility
-* Integration of both **hardware simulation** and **software debugging tools**
+* **First-Principles Design:** Exploring foundational digital logic and translating it into working models.
+* **Circuit Simulation:** Building and testing both combinational and sequential hardware circuits.
+* **Hardware-Software Bridge:** Gaining hands-on familiarity with memory addressing and low-level C programming.
+* **Analytical Problem Solving:** Developing a structured methodology for diagnosing and resolving architectural bugs.
 
 ---
 
-## Usage
+## ✨ Key Features
 
-1. Clone the repository:
+* Self-contained, modular folders for every lab session.
+* Highly reproducible circuit designs with complete documentation.
+* A dual focus on both hardware simulation files (`.circ`) and software execution.
+
+---
+
+## 🚀 Usage
+
+To explore these experiments locally, clone the repository using the following command:
 ```bash
 git clone [https://github.com/241210047/241210047_COA.git](https://github.com/241210047/241210047_COA.git)
